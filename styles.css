@@ -1,0 +1,46 @@
+
+.nav-pills {
+  --bs-nav-pills-link-active-bg: #f7b97c; /* Fondo verde personalizado */
+  
+}
+
+.bgheader{
+    background-color: #d6cfc313;
+}
+
+.botones{
+    background-color: #f7ba7c59;
+}
+
+.bgcards{
+    background-color: #d6cfc313;
+}
+
+button{
+    background-color: #172A3A;
+    color: white;
+}
+
+#footer-content{
+    background-color: #172A3A;
+    color: white;
+}
+
+@font-face {
+    font-family: think;
+    src: url(/fonts/Think.ttf);
+}
+
+@font-face {
+    font-family: moka;
+    src: url(/fonts/bn.ttf);
+}
+
+h1,h2,h3,h4,h5{
+    font-family: moka;
+}
+
+.card-header{
+   
+    background-color: #f7ba7c59;;
+}
